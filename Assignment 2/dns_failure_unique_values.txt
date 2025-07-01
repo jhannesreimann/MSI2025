@@ -1,0 +1,457 @@
+\N
+address_family_not_supported
+address_not_available
+android_dns_cache_no_data
+connection_aborted
+connection_refused
+connection_reset
+dns_bogon_error
+dns_no_answer
+dns_non_recoverable_failure
+dns_nxdomain_error
+dns_refused_error
+dns_reply_with_wrong_query_id
+dns_resolver_error
+dns_server_misbehaving
+dns_servfail_error
+dns_temporary_failure
+eof_error
+generic_timeout_error
+host_unreachable
+http_stream_error
+internal_error
+invalid_record
+network_unreachable
+no_buffer_space
+permission_denied
+ssl_failed_handshake
+ssl_invalid_certificate
+ssl_invalid_hostname
+ssl_unknown_authority
+timed_out
+tls_handshake_failure
+unknown_failure: INTERNAL_ERROR (local): network_unreachable
+unknown_failure: INTERNAL_ERROR (local): unknown_failure: write udp [scrubbed]->[scrubbed]: address [scrubbed] non-IPv4 address
+unknown_failure: INTERNAL_ERROR (local): unknown_failure: write udp [scrubbed]->[scrubbed]: address [scrubbed]: non-IPv4 address
+unknown_failure: INTERNAL_ERROR (local): unknown_failure: write udp [scrubbed]->[scrubbed]: sendto: operation not permitted
+unknown_failure: INTERNAL_ERROR (remote) (frame type: 0x2): 111:Peer address changed from [scrubbed] to [scrubbed] before handshake is confirmed.
+unknown_failure: INTERNAL_ERROR (remote) (frame type: 0x2): 194:Peer address changed from [scrubbed] to [scrubbed] before handshake is confirmed.
+unknown_failure: INTERNAL_ERROR (remote) (frame type: 0x6): 111:Peer address changed from [scrubbed] to [scrubbed] before handshake is confirmed.
+unknown_failure: INTERNAL_ERROR (remote) (frame type: 0x6): 194:Peer address changed from [scrubbed] to [scrubbed] before handshake is confirmed.
+unknown_failure: NO_ERROR (remote): 216:invalid hostname
+unknown_failure: Post "https://[scrubbed]/adblock": http2: timeout awaiting response headers
+unknown_failure: Post "https://[scrubbed]/dns-query": http2: timeout awaiting response headers
+unknown_failure: Post "https://[scrubbed]/dns-query": local error: tls: bad record MAC
+unknown_failure: Post "https://k-kabegami.sakura.ne.jp/": http2: timeout awaiting response headers
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 003ad5419cdf9cdc4b25, is d148c348
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 00b27f4e38cec6ac5ddf49, is a7e7cc73
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 01675945bf3fbd571efa65d9943ba767168a4e, is 6c8cd7f1
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0179cd1f0230767cd548, is f1755cba
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 01b9b6e761b5fc54674c1cbc, is 081b4b7c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 01ba76f95ccd0981c1b7, is 8991bf03
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 01c355267b55a255, is 6d9c8fb6
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 021936b3dff460c6c4, is 56dac334
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 025d46148d7c91517519ef837df190, is 9a7cdd54
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0287f971aa47183b52ff, is 745539ff
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0457cba9a407eafbafed15e810, is 10aff41e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 04a4c3ed88f25832, is 4e27542e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 054b85769c1fab34a8da25d1, is a3e753e0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 066bd121f7828d289b2c3d5d39e0ca, is bf576144
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 07c2122361b4a74a066cb244602141, is 7b80c295
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 08bca2598f80cb0834e59c7fc1, is 3dfbfe8a
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 08e07d4370532596ee1bc5f233f68f75f0f06c, is 68b80d5d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 092e5ed70f2fa75390090f, is 23ddfc3f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0baa35d085d1f730cd151b3838eec7e8, is 1a09a56b
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0c8d1359c67aca8036763f50708f, is a43555d6
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0ca456c0e576126556b43f83b6ee0e9e85, is f632c498
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0ce1c0305230a3347c7a7bea54452724, is 182dc4a0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0e01211f755865637fe3a1c143c7344c0a8c0b, is 12c7d706
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0ed5ec68804e5f28ee4701, is 73fcf7ad
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 0f353b889834d6447c6fc2e853b5bca2f006, is 9b881bf9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 103413c87d4bdcf221bc0cf02be777e73e6d93, is 54314c50
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 10e8ebcde9eb051af8bdbd4f6e5206a2227053, is f4b23ce5
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 1236fe5b0f0e8b06e9, is 17b7072f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 14a29ebe781255e3d2f4a5, is 9337a47f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 14ebddfb5e159329, is 970289e9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 152b85192e95938149400401d536c6c16f8a, is 7eacf282
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 16f338f725146e3408dd3f01e81a4f0c, is 49737cc4
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 18d996b4c5be7420e3b02d0f, is 15504c88
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 1901241e203450cb87948cfd5965e869ee8fbc, is 88733c17
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 191ba1eb1d2f37989689db, is 8e7fcad8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 191d954d497a4f7fb0ba7e9a8036632089edd004, is bd83ac52
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 1922309e5ff8aeb48127e950c31e9870b8691112, is bf68d064
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 1977c8254f45d19fa52dae239914b3bf536a, is 32014830
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 198492e039e3b99543ec, is 5fc3fae2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 19cb8259563c065a35d92963dafc42, is c3d1d62e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 1a04e56c19459a9a2892332196eb8274de4ccdf8, is e696ac75
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 1b8be1f6bb5aa997b76c115a99ea2633b6dd, is 351643eb
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 1d1fc3534d82b436479ad324ff23a803d0, is 3e2ee25d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 1f702848259bd7088d4505628e772c9a3e376634, is 6bcf0e3c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2086f439e2c282b95ca235f9144ad829d589bdbd, is c24ad672
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2107021a677ae985, is e0cd7f35
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 219924c4ce35deed3d, is ade35e83
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 22db534c7da4bca4de, is 44cd1fd2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 23a0cb416db388773d9edd6e82c8d69605d238, is 637101f8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 23dabf4caea614a556b58a, is 17bba4e7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 249b7ba37b78610bc864, is 39fcc1b7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 25530b4eb97ce280, is ecaf01af
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 257276c3160dba063c28353f90b1d655234947, is 0fbd21f1
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 25ec609a194c0c953f4b6f46df536dac03, is 7faba308
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 265a69d75597cdb4aacade, is 4397b3da
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 277df47ffccee107, is 39a36c7b
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 27a02591978c327c85a9, is 7922f5ed
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2820f6339e27676011202a321631d438b4, is 1c03cf43
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 283ec6acd2cf9ec39ed796, is 72f767cf
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2a507e5d3a7e4679e5, is 04a346c0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2b1ac2b2d85fece276d307fb, is 6de07ed0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2c356f57c175b77452, is 03c0c611
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2c65895b197b68641ceac6f6b7b47dc81070df86, is 302b5cb3
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2ccfc3b7b158382bb19c1a2ba08b1db4, is 030f40b9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2d562d8c0c04ef6345982916a0e02833, is 2c7a6f30
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2d5682d1b812090b4835971f49996b, is c9c951db
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2d8010889321b23484ff20400fd6, is bd702145
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2e0f6d7f9eaa90152cadfd, is 20ce607d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2e282a8e1a3ff0423a03252a3060fa, is cc1ceeaa
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2f30973184a6d5a57abfde5f09133d19, is 9136ca5e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 2f680a35bb1ff53fa15bf857eb, is bb6f6207
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 30416fc95ff9e73f1d3743, is 48929287
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 312b5ce4e579d80b10ab95504a04, is f9fdb42f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 315ed479a958344459601b, is 45bffdd1
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 317844671012d1e61e96, is d39da3cd
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 32822c19d60d23b8a34451214d53, is 51a5ad59
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 331a3b19bae8ef5c241f241e, is 5a0d8ab2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 333598ace90705d48f5f, is 869592d9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 33e695bf9dcae13fd7c34ce52986d4cac43d4b72, is 39f390c7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3495a264b14d20a709f3c49d, is 0c787743
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 34c9f3ee8137b409207cea9427a4be, is 4a1749e9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 34e852387d1d721a78a2b53ee97d90c8009708, is 4bc08be5
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3673b7d8199a62acaf2892cc279386, is 3e919dc7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 373cfd6515bd57cfa9732c326d8e0257, is 629fa7f8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 37fc94ee8a90f5a9f5dd0c429a75a388, is 1f97665f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3825afbe6ab506155bc78511ba19d6f34f, is 8a0287ae
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3844c5a9cae69a458b8f, is 676071e8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 38912d87de858837180fa709810298babe154c55, is f4a37ae3
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 38971b674b00a5e7, is 0e479ca9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 396355547c5adba8265f0a84769877, is eca6b4f9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 39a61ca1b8072a698acafc3c4c72a3df52, is 9fa6b0a9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3a3ecd5e1cf92d7548f543030238ba151a3685ea, is a44c8d35
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3b287f0d3b7bfb8e, is 3cd74d64
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3c0234c4cc0f037d4d807adfc9de0c17b8, is d17f9546
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3ddec8737398d3a275a2f9073635d39d64, is 38a82e53
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3ea6231ad854ec05d166769bd7d6451b5ade0f22, is b2da13be
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3eadd2c7c04728d790, is 33a30959
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 3f4630fd3313832a4029c81d02ff, is 6db1a1e9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 40407096c525f854, is a9825109
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 404560aaacd2fb1b, is 746c1f6e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 405a12b3faa7d527, is 2c0a5d99
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 4161d7ab94a653b18042d15b, is e49513b0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 420645625d0b7b9b54c1a8fae3483305732d03, is c70827f7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 43310f380e116222d0a0b85401c450, is 6abdcc3e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 433bc4e36767aec61e09, is 84f9531a
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 434b9c2296d9589a, is bab7bfdc
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 44415e3b5ca2ef451857d69fc6bfb9f1, is 4630cfaa
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 452704f18114b831, is 4d70c72a
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 452816c4d3f2bd85c38b132de2d1, is 081b3a73
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 456631c1d80d0cc1bee984c922229a5204f7e7b7, is e7af66ee
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 468647eb4dfc41d42f50649b40c5, is 5bae61de
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 46f61540184896f0f7d8ba, is 36b93960
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 476ba22f331be93253932b22f143378593, is 2be13eb2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 481ddc6438f77e2112, is 3a52e903
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 48bf66fde564a9f516c95cc84fbeb076, is 5d1ae4a2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 48d2c970040657872376, is 1cc67e49
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 48f2cfa400d52df4a998d1e7ba, is ca98f2fa
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 4902544556b676d8c74cc96b681a26818cce95, is b0345d78
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 491eabeaa8c5c7be5614600ccb, is 34259dbf
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 49a3819235ca1c548e33f75a4e2d, is 8b376119
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 49e9afcf0bb7ad258afccbc8c2782616, is bad49504
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 4c2c594f457267307cfcf5664ab9, is ff239527
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 4c563df0a3c3d920676277c6be905d4c79ff6a, is 3d8b7996
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 4eaf4e84e9519dd9068728cc1b843b7b5f93, is ceb22c1b
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 4f0723b0e5cf7ef6e4565aa856, is 6dd744d4
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 4f1d46d61afcbff8b913624ca60b0ee49b4f02, is a78a8d70
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 4f512e8c2784b40e96, is 449f14b8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 4fd07d664b800c9351b99547cc834968, is 46633500
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 5307fdde1cb57ce66ea861bbdd6f08677c, is 04011a12
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 535d2acbf82755ea, is 013ecad4
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 53f67a74a6bc92f489132f1e3d0b105ed7a0fa, is 25994fab
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 545109e9eee2d1e6b06af2, is f34e449e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 55a5d18b136878795f1672561309c53e001cf1ba, is 10f37676
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 55e2baef9039c0b59dfd65edb6c7eca88fbf, is 3d070bb0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 565cd69255fde4eacff2e4462b, is 81791fce
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 5784327efbc7d53f5638fec6b1dbc3, is b05046b8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 5961dc1304290f1791a803af1ce9b29dc7, is 17e9fd9d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 5a147b38bb8f3c151d08, is 6f589ebb
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 5bcf18efd72060d734f062730d0c23, is dda905ea
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 5dfe61c29d9e83bdaa6c62a36689ec623eeb23, is e6c03a24
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 5e73174e6eeb307db0f662, is 2a8ca891
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 5f3acf6a00d76bb052, is a0d0e69c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 5f62f0da197b5b8435a3, is 40a6a66c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 600c0b5a7cc12dee31ffee50649c3407, is 9878ced8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 61535c68eb2b8f8e0c6a103ebc81d8c60885f0cc, is e1820362
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6176697e139e4269b1cc952cf9, is 74918821
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 61a29bfbc7f12ab6921f743c5663a652ac4eff, is c38e7b76
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 61fe7d7d6f22aeb617181bb73eec67, is aa81b29f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6357b8406257716dd7fbd9b346f25e1109acb8, is e1e7c7cc
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 63f9843b63069b6781b6cd12, is 9c5f40f8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 64bc45bdc1686190799090459f64880b0c41, is 398f8509
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 658a32691bff53e662d6eafce9dd55d157, is 8cf2f5ac
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 661bd019c5dbd3e517db5ba7a7b765, is efec391c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 66696905ea2bded9ac4f8fc4, is 8bffe232
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 66c8a9a09d9825a640, is 03cc2a7a
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 673f46b41625d0b65030b9f70a, is 1a09229d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 68fe5e4e0eb222519f31eb67a970631a41, is 4d0ed1af
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 697c2bae61653a12f2862a9ea3d2f1b410618120, is cbb73519
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 69ad4717fb1b056844, is 766a4187
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6a11c9453fd1c62daba773883d81c8, is b0fe7fe2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6af3073a4a06e4068d, is 5f8c27b7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6b5774a99a6b267086, is 41705e37
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6bb9a819060b4af14895f75175c361683d5e58, is 705606eb
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6bd44ee1a20d2f45b2055414954be46c24c0, is 51584c40
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6ca5fda5693ca50a8e59bb, is 2c551215
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6de80e94e373c6a968daf7f053794c7352bd2b34, is f947e1d3
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 6e09dd828978cbe690bb7fa24a0d, is 4a43f778
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 701b7f431479af7b4a016835e738532219, is 0b07e564
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 701c0deaa58557c239, is 0afc202e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 7073ced84260fc6f48a9, is 6a616537
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 708bce87799fc6d6, is c8a612de
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 7228c4dae265575d8849fc217f73ec, is dbb561e7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 7272dffaace20d650a774be1a12096e963, is 216c7218
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 729ef99b94d877fd33f84769a779f5060f, is 7c3a930b
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 72cfa01a4e188206216377d5, is c854c80a
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 732b9db029fbd8d4fa67f5, is 62662cd7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 734f2f33f994f124ea991386b9aa, is 186be90c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 73948c73e023a4c9, is 23567fbb
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 759b486e703c98228431a99f728d20c2, is 393b124e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 767afca3dc0ced71c94894b95dabade20c0bf3, is 44fd2de5
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 768b7f49faa2287622, is 6b8941d9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 76b69f5068c631a4043258, is dddd5265
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 77403bb53736abc38c7259b8, is e4184656
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 78722ba5340dc755690e, is da7db243
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 78c800c3161305e5084e, is 91423a29
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 795fe1b93e3168d1, is 7ebfd687
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 7a8e38242a01e6c8ef6b2cbb87c76d52, is 609ea518
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 7b7abbd31e45f118702b520132f2f0b425b506e1, is 9805da0c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 7c8510d6e71ae574976b211dd2d070159251, is 2db17980
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 7f3591bb32673a685ceb80037f8fb29b91995c, is ad1c35e0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 8063534cc44b3f131810, is 3c5cf4dc
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 80c9b129bfd0728ee141d9a658, is 100fa0fb
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 80f64f56d9232af73c0dc5ba7eb562588a65, is 6085fe05
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 81052f9b1ee319fd7123f01dc7ae6c274658, is 137dfd80
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 817e22ff34dffea9db49ffce3010adb3, is 30de61b9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 81f9f6116933c569abba1e71, is 8fcb85ef
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 8259c8a26836365ee6ff64dc8b0557f92b, is 1c95aeb2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 82885b19902645e87f, is 1fc957ef
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 82ee6acf1d4bb24b01f583019ad56018, is 854f652e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 83580c0a17bc555066533b66e434, is 74c5cf66
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 838bc19e414e3c9c6861e4da22, is 6e2fab56
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 83d5452ce74370287b8d, is e22bb2fe
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 851e50d460b7ee346a569f80ebe55d31f5a7716a, is c1d67d89
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 852f018084c186438c, is 5d084055
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 85f33ac97a1e9a70f29eeead0e9487, is da6b96f5
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 861451f2d8413de84060f114c2f98f9eea2a82, is f451369d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 87b88c8fd0e064234e1030c65abfb4a219, is 87788457
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 87ee875a996373b7a208f76da245, is a0832d75
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 889c58e8440895be2b2aceb4b1dbb447, is 14948ad8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 893784221935ab920463004a, is 4a76011e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 896caa5d7e7dfc3f9ae6e3d638c288d4dc, is 4d62dcdc
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 897c60c53267cdea791f113ef9d57ae3, is 9a969e93
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 8b380b2375e10153cc0dca6126e86836b5, is 67546203
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 8b455a454bacd786faf9776dc800167dd556, is cc6360a6
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 8b8f3d17a52b355aea18ee424a0344, is 25cef82f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 8c32d6531c0bffcb8b817e5055529123, is e0fa539b
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 8c76ce79cf71872f7b, is fa3b8df7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 8da50247cdbab1e6f248, is 94ea9c11
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9041770a432660616753e134d606bebf, is 88b55809
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 910e44ce7cbf7a10897afd6a78125985079ab0, is 581e6c39
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 927973a7826393da, is 78ca35e9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9585713e0f7505ffe55dc60f3556b9, is 1d42673a
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9671c5c647cc68b81e0e2727fa7c1f82557a1d24, is 6e9e0562
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 970b9c432e813d5ef88e62f4498cd962f2, is 46f8092c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9872b80a98323a190ed5ee6e9160687a4845, is 0e06ead7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 99e07dddf09247bc194faf2f4ae6, is ec6bc2fe
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 99edcd2464234edb8bfb8a3721f51b8e, is b2a98bba
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9a64fc47b6cc159a97, is 6b8d9b1e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9a6d0bd22bfe94bc26951a1e255d464a, is c4863f3e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9a6e8782b5202a44068334, is 20c0c150
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9b1f65a5f074d461c4, is 5451b6cf
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9b8dde4bd9aaa45d284b78f1681581c40259475b, is 578beade
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9c13175679f9516cd952e7c6448d9d68cef1, is 5ae7233d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9d23a9e258849bda1470e7e6c4, is be07f875
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9ec4282651dd21a8483b75, is d6c58c01
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9ed10a4a85b4ccc4ccc5641cbb650c, is 1298825d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal 9ed6316231d8acad6f, is 8e5d0107
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a0ab9d1d1af63fabff29407854ca7d, is ad51e608
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a2472dec87c9d14c17cdfe8caa0a3de884, is 17345aa9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a27e3a80fbf8ce53c10eaec76bfeb88811744efe, is 26f7888a
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a2dbe754943ea4a205904b, is b968160f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a3c6a3b64a0106f0c24e53, is d91a61f2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a4eb23c6ff7b6d7b, is 84ea598e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a553d4820562b77d, is 753ad781
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a554e38aa3f634a8354b027ed3c0f3e6e4f198, is fa428c04
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a5b27810220be449ff20a4539348a4a2d733, is e791a94e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a7ae9aba83255663e0102f8448b1066d, is fb7bf114
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a7d0ad435506e09b4b533d64def290, is 59c7b862
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a8e734956c1459da37084e96cdf9cc1c5f, is 7da7b95f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a904f7c8994c4f766d795eca2c7991c6daaf2d21, is f1d889ac
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal a99b8447dbb45044ba64187bf0774293, is 97fe1f67
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal aa7a58f20da302aceb, is 8fa5a758
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ac3fea950ecca88f916f386ca5b05ca6, is f43549df
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal acaa23d05a07cfe077fa2232c2d8, is f006543d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ad14a6d25e41e62ea0869f2de74b4d6b1c, is 9ad58d45
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal adb4f594ccd662fd3e5fd1df78dde4fbcdb67d, is 679cf0b6
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ae72ec2593867f6b, is a5bb089e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal aeb135eb03491386, is f09f2742
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b00de70f1898f31ccf7100b9d4, is 14223f5f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b069b11963783ca5929835563f178a404567ec, is 49d0e90f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b1010c1bd879457ad2b7f39142, is 4a253c89
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b19314226c6268e60891dadd7e2b30540f0f5b, is 10ab41dd
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b258c26b31c2eadf1fd4be, is df2e3fb0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b2f1dc7d3c00c35da7c1, is ce0bc3d8
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b4c183659b466ecc83fe9e886b7fb1ee4496, is 46b33c46
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b5ace6e1bb3ac7fcae40b7a8c6b96ef8f58b, is 2cb81dee
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b60d29708d0fdd279a, is cefd5366
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b6ed4f092ac70705562b312b77c9bcfd60, is b6e83aea
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b71b3be07d8cd87c185f56536ba4, is 9da86571
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b85a11073dbedb2483c2ee90b70822c5769d73, is f60c734b
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal b9d947cfc32a4206, is f65e6802
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ba967d0709fda7c4ee0d99902eff49aa53b42e, is a13b5f80
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal bbd8d8957f6e91b7, is 3dce7b25
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal bbf72eb91b274831f13e72bd1b0463fa, is 2f80411a
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal bd2856fb9d5e6b456c792df9ac, is f257bb72
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal bd34ea6fb51228bff41148bfa04f2565ab930193, is bc031837
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal bdc43c663c1a15eea1c1c64563ae, is dbbd2493
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal be0c713aacc3adbe10963a, is f24e68e2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal be5672b5364583e7cb8bede45b190fdafe88, is e33b0cb0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal bebdd2f03539a9512a94dc2a8fb28b81d9, is 1d26b5da
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal beda12f15ff9b697139ef118ad58e403b4, is 0c3a81e0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal bf0c2003044c3340f00abafbc6e784, is b2de1283
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal bfc28d09cfbe43944858c754b03a33f134, is a39d4cf2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c0770f133ef523e6d0ea29bdf1d134, is feaef966
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c12b010966b4236f5841dc9b49052ba4cd1d8b, is 45995496
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c19c879ac9ef3287, is 6b5c9c9c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c1c9e878976310d737a0f2e48ff06461, is c80a418c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c2d59d3e3849a032eab8a0899b, is 048842a6
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c38c01471cc9e1f655143409, is c44dc9ca
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c3a8c02a8fc566537d41c9d0800e228da96cd2, is c316b448
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c4754c641b197d85713b, is 8786260c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c56406a4438c3410216a4401183171, is c3e4c588
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c6c4d34bc3f1db54b91e7c82c2cb07501b2c3ad7, is 6f00ba50
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c74e5357d354de312d12, is acbfef77
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c7538380447a26c88c3fc9b84b51, is 7538d117
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c76d362965cd4e68, is 57788af3
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c7d3583f9be026bca919, is a9d2ef79
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c95fcade812fecebd0408d7b52d6cea4, is fb69f9da
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c96712a91ee1b913846c8ef76745, is 35ab6ecc
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal c99fe1f678cefa4ef2908578b9ef4191260b, is deeb33ef
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal caa59cc755dc8a53860e515ff609bb61ae0ed09c, is f153e0be
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal caf7db940b4def3193f77e7ba6a77381, is dc72d023
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal cb0b95b5369a15968eca2873571d, is 10551e64
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal cb68e6e23733fb78b8124f38, is 726e532a
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal cb9091247d5f645e2a, is 2c63b353
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal cc9892893b999019a38d, is 9c42f357
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ccb6486e3168cb18ae1302a409af7d8db05b, is 36533f34
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal cd4808ef901150125a8b, is 7730a0ca
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal cf18c3337281daf223297d1cd1, is c8fb51ae
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal cf60802d58e3ec94811841, is 80894ef7
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d13a3a3772ddeab556, is 053a357d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d1df81500b8c8b31f8d45c, is 9945822c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d2b4a38d529890ccc1, is e13c9202
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d2ef768481004331a5d7a803, is 34ce2279
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d34ac916347f5ef6f9d3, is 0fefb756
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d3f18e2c723703e1cb, is fc41c0f9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d431181a7626fbdf548c5d121bf9, is f9bb7f9f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d496adcf91daa22c0098db7ef904a63caf, is f4732ad3
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d4a53cfd408609e05e76cfd710378910d1b336, is 6912281e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d4a6cc5aca18fb1388937a8db8deb2abec860d, is e8c9d9b9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d5ff96004f8fc7c9e4a0112e, is 3d93a829
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d632abfc7d746debafd95d259adf6853, is 6112f781
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d67f91e3dadf5da7872b24544f, is 6061414e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d69b22dd21a48c5cfaecdf0a160733d2c506, is 72a575e2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d6df4448ba6413bfda079d78, is ffe51cf4
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d75ca28cf442f6089bc6d8dca8aacf123452, is 5811dc99
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d76cd25ff92a2874bc16020e8e, is 6d9dd159
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d86a8e0b5fc6122d8cf4da29956c, is d1202bec
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal d995eb061e99a675218484, is 79499971
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal da659be96cbf46e79dd350efc07554591d91823d, is 30d68dbb
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal dad5a35f91016163d3a9, is 248ae36b
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal dae2a90d7f6cbca3222cac0fb3, is c1ae71cf
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal daec21b31b96c92f72610609d4, is e09465c4
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal db296aac78ae2fc1c9e7410bb962, is f3d6a752
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal dbbef1e74bf3253d33030543c15e9b6d, is b6c4c580
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal dc1dbd4d9bb3696b77bb376a59c2b7588b, is 78f6dca1
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal dc570cf14f8c167013, is df519756
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal dc646264ae3cb9fd5bf27198bd4d2be46d4984, is 4e2bc252
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal dc7a3a2ea2a7af5a0ca1, is b14e0d07
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ddb4b8d2eba7e64837, is f2fca22d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal de1f61eefbd27d6b863a05e7652a, is f16f736e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal df063eef7000a6cba896dd, is b7eac194
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal df2f59426fc5c857a2537ba649782e, is 50b1cb9f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal dfae14e8bfa0b4a43e6bbddcb0384507, is acf9fe8d
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal dfd1762fc50ea84b8914fdea0aa8a6dee1c997f6, is 910c56d9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e10bb66cb031d6b352d677b89dc812c81990e4b5, is f10fbb45
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e18b3887ea2221344b14945c9edf7bafb101, is 6ae5f57c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e218d680013f7b604ba116877216a79606, is bc16b112
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e2f4ca6adaa13325ce27e5acc30c, is 2006ddb0
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e398aab66cfcbde9e32ffc, is a81c8369
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e3ebf3a026e72be20ab5427cbe57, is 42822cb4
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e42ad8f1754397d766867444, is 4868f9ce
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e4523d26d0dccb6e5d, is 1de82892
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e4a145249a2e5ac59bfaf218ab87, is 7c5470eb
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e4f6a696677c472b8705b7, is 247adff4
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e7193f7d43ab6b1c34b9a5bcc9cde33f5c24, is 244f373e
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e82a3478db9d51a7dd08e6437cbef76e1bd8, is d6a139bf
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal e874b3790cf8ecc79847f47b30e9, is 1994b3fd
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ec003e7dabb240df43b33c0f85fdeac47f2eb2, is 0cf3204b
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ec1f8f8e5a7ab417bffcc8ae22, is 3b0a4535
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ee2689f61c21cdb4ade3f44a42c1, is 63d4ab9f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ee9d7e0a6371f855748aab61f66acf, is e8b441b4
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f047107853f6788d, is b8b66584
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f09228eb1c1057b16d1ed459, is ebe10a5f
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f0d07769bfb342e941128de367bd6ce524, is bbd7a087
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f17e3df54dbd3a2dd886e0712270, is 999f5e2b
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f3df3d19ab7120f89ff245c8, is e45ade55
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f5526b26c5522072a9e92df6a7, is 80fc552c
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f6a4fb9129fb6fd21e8227e28c, is 47a14fd2
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f7be57402a95a67898e64c74057a, is be79bf92
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f8b6c95e39f83e8b8c27, is efa145d9
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal f926dbe1ebd1ac24, is 9a7f6204
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal fc5458d6846e9924009e08a20bb4c7aeb90b, is 4e65b8f4
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal fdc9676d5671dde6204ee185a520cdd4f389, is c06a2ed3
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ff1f8f30be0354d8cb057a42af89ff9ca9, is 47c89642
+unknown_failure: TRANSPORT_PARAMETER_ERROR (local): expected original_destination_connection_id to equal ff74720ffdef78ded2b58a764d974f9a99, is 9458b21a
+unknown_failure: dial tcp [scrubbed]: connect: cannot allocate memory
+unknown_failure: dial tcp [scrubbed]: connect: cannot assign requested address
+unknown_failure: dns: overflow unpacking uint16
+unknown_failure: doh: invalid content-type
+unknown_failure: doh: server returned error
+unknown_failure: http3: parsing frame failed: INTERNAL_ERROR (local): network_unreachable
+unknown_failure: http3: parsing frame failed: timeout: no recent network activity
+unknown_failure: idna: disallowed rune U+0026
+unknown_failure: idna: disallowed rune U+0029
+unknown_failure: idna: disallowed rune U+003B
+unknown_failure: lookup abortionnetwork.amsterdam on [scrubbed]: lame referral
+unknown_failure: lookup cantv.net on [scrubbed]: lame referral
+unknown_failure: lookup capriles.tv on [scrubbed]: lame referral
+unknown_failure: lookup cf-ipfs.com on [scrubbed]: lame referral
+unknown_failure: lookup clipwatching.com: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup cloudflare-ipfs.com on [scrubbed]: lame referral
+unknown_failure: lookup doh-fi.blahdns.com on [scrubbed]: lame referral
+unknown_failure: lookup libgen.li on [scrubbed]: lame referral
+unknown_failure: lookup softwarelivre.org: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup stokpic.com: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup www.24horasnews.com.br: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup www.aboutpixel.de: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup www.brasilpost.com.br: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup www.cis.minsk.by on [scrubbed]: lame referral
+unknown_failure: lookup www.ecod.org.br: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup www.exploit-db.com on [scrubbed]: lame referral
+unknown_failure: lookup www.helvetas.ch on [scrubbed]: lame referral
+unknown_failure: lookup www.ihrc.org.uk on [scrubbed]: lame referral
+unknown_failure: lookup www.jornalatribuna.com.br: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup www.justificando.com: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup www.kabobfest.com: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup www.photl.com: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: lookup www.picdrome.com: getaddrinfow: Este geralmente é um erro temporário durante a resolução do nome do host e significa que o servidor local não recebeu uma resposta de um servidor autorizado.
+unknown_failure: remote error: tls: protocol version not supported
+unknown_failure: tls: oversized record received with length 20527
+unknown_failure: write tcp [scrubbed]->[scrubbed]: write: broken pipe

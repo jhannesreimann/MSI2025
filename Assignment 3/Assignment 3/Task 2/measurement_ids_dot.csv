@@ -1,0 +1,11 @@
+measurement_id,resolver,domain
+109060048,local,google.com
+109060049,local,facebook.com
+109060051,local,amazon.com
+109060052,local,wikipedia.org
+109060054,local,baidu.com
+109060057,q9,google.com
+109060059,q9,facebook.com
+109060060,q9,amazon.com
+109060061,q9,wikipedia.org
+109060062,q9,baidu.com

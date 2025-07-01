@@ -1,0 +1,31 @@
+\N
+address_family_not_supported
+address_not_available
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+generic_timeout_error
+host_unreachable
+interrupted
+invalid_argument
+network_down
+network_unreachable
+no_buffer_space
+not_connected
+permission_denied
+timed_out
+true
+unknown_failure: dial tcp [scrubbed]: connect: cannot allocate memory
+unknown_failure: dial tcp [scrubbed]: connect: cannot assign requested address
+unknown_failure: dial tcp [scrubbed]: connect: connection timed out
+unknown_failure: dial tcp [scrubbed]: connect: host is down
+unknown_failure: dial tcp [scrubbed]: connect: permission denied
+unknown_failure: dial tcp [scrubbed]: connect: software caused connection abort
+unknown_failure: dial tcp [scrubbed]: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+unknown_failure: dial tcp [scrubbed]: connectex: Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+unknown_failure: dial tcp [scrubbed]: connectex: Se ha intentado una operación de socket en una red no accesible.
+unknown_failure: dial tcp [scrubbed]: connectex: Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder.
+unknown_failure: dial tcp [scrubbed]: connectex: Uma tentativa de conexão falhou porque o componente conectado não respondeu
+corretamente após um período de tempo ou a conexão estabelecida falhou
+porque o host conectado não respondeu.

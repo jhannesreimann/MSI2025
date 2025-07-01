@@ -1,0 +1,37 @@
+─[$] <> python provision_ripe_atlas_dns_measurements.py
+Created measurement 109059578 for local google.com
+Created measurement 109059579 for local facebook.com
+Created measurement 109059581 for local amazon.com
+Created measurement 109059582 for local wikipedia.org
+Created measurement 109059583 for local baidu.com
+Measurement creation failed for google google.com.
+API response: {"error":{"detail":"There was a problem with your request","status":400,"title":"Bad Request","code":102,"errors":[{"source":{"pointer":""},"detail":"We do not allow more than 25 concurrent measurements to the same target: 8.8.8.8."}]}}
+Failed to create measurement for google google.com: 400 Client Error: Bad Request for url: https://atlas.ripe.net/api/v2/measurements/
+Measurement creation failed for google facebook.com.
+API response: {"error":{"detail":"There was a problem with your request","status":400,"title":"Bad Request","code":102,"errors":[{"source":{"pointer":""},"detail":"We do not allow more than 25 concurrent measurements to the same target: 8.8.8.8."}]}}
+Failed to create measurement for google facebook.com: 400 Client Error: Bad Request for url: https://atlas.ripe.net/api/v2/measurements/
+Measurement creation failed for google amazon.com.
+API response: {"error":{"detail":"There was a problem with your request","status":400,"title":"Bad Request","code":102,"errors":[{"source":{"pointer":""},"detail":"We do not allow more than 25 concurrent measurements to the same target: 8.8.8.8."}]}}
+Failed to create measurement for google amazon.com: 400 Client Error: Bad Request for url: https://atlas.ripe.net/api/v2/measurements/
+Measurement creation failed for google wikipedia.org.
+API response: {"error":{"detail":"There was a problem with your request","status":400,"title":"Bad Request","code":102,"errors":[{"source":{"pointer":""},"detail":"We do not allow more than 25 concurrent measurements to the same target: 8.8.8.8."}]}}
+Failed to create measurement for google wikipedia.org: 400 Client Error: Bad Request for url: https://atlas.ripe.net/api/v2/measurements/
+Measurement creation failed for google baidu.com.
+API response: {"error":{"detail":"There was a problem with your request","status":400,"title":"Bad Request","code":102,"errors":[{"source":{"pointer":""},"detail":"We do not allow more than 25 concurrent measurements to the same target: 8.8.8.8."}]}}
+Failed to create measurement for google baidu.com: 400 Client Error: Bad Request for url: https://atlas.ripe.net/api/v2/measurements/
+Created measurement 109059588 for q9 google.com
+Created measurement 109059589 for q9 facebook.com
+Created measurement 109059590 for q9 amazon.com
+Created measurement 109059592 for q9 wikipedia.org
+Created measurement 109059593 for q9 baidu.com
+Created measurement 109059594 for cloudflare google.com
+Created measurement 109059595 for cloudflare facebook.com
+Measurement creation failed for cloudflare amazon.com.
+API response: {"error":{"detail":"There was a problem with your request","status":400,"title":"Bad Request","code":102,"errors":[{"source":{"pointer":""},"detail":"We do not allow more than 25 concurrent measurements to the same target: 1.1.1.1."}]}}
+Failed to create measurement for cloudflare amazon.com: 400 Client Error: Bad Request for url: https://atlas.ripe.net/api/v2/measurements/
+Measurement creation failed for cloudflare wikipedia.org.
+API response: {"error":{"detail":"There was a problem with your request","status":400,"title":"Bad Request","code":102,"errors":[{"source":{"pointer":""},"detail":"We do not allow more than 25 concurrent measurements to the same target: 1.1.1.1."}]}}
+Failed to create measurement for cloudflare wikipedia.org: 400 Client Error: Bad Request for url: https://atlas.ripe.net/api/v2/measurements/
+Measurement creation failed for cloudflare baidu.com.
+API response: {"error":{"detail":"There was a problem with your request","status":400,"title":"Bad Request","code":102,"errors":[{"source":{"pointer":""},"detail":"We do not allow more than 25 concurrent measurements to the same target: 1.1.1.1."}]}}
+Failed to create measurement for cloudflare baidu.com: 400 Client Error: Bad Request for url: https://atlas.ripe.net/api/v2/measurements/
